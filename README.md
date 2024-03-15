@@ -16,7 +16,7 @@
 
 ## Testing
 
-+ launch nvJPEG
++ launch nvJPEG (https://github.com/lixmantop/nvJPEG.git)
 + start the tigervn server (systemctl start vncserver@:1 or vncserver)
 
 
