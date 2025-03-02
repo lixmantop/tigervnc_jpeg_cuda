@@ -30,5 +30,5 @@ For this we use the video card to carry out JPEG encoding instead of the CPU in 
 
 
 ## Future
-Integrate the solution on Qemu with vnc display => the performances are nice 45 fps and I integrate the sound management on linux :) soon available 
+Integrate the solution on Qemu with vncviewer display =>(03/2025) the performances are nice 45 fps and I integrate the sound management on linux viewer :) soon available 
 
