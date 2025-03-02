@@ -1,6 +1,6 @@
 # **Introducing Tiger VNC + jpeg + CUDA(NVIDIA)**
 Using TigerVnc for remote display with high display usage and lowest CPU load.
-For this we use the video card to carry out JPEG encoding instead of the CPU in cases of maximum display load (1920*1080 25 images/s with YouTube full screen, Catia, Blender,...)
+For this we use the video card to carry out JPEG encoding instead of the CPU in cases of maximum display load (1920*1080 45 images/s with YouTube full screen, Catia, Blender,...)
 
 ## Validate the suitability of the solution :)
  + Outsource Jpeg encoding from VNC
@@ -30,4 +30,5 @@ For this we use the video card to carry out JPEG encoding instead of the CPU in 
 
 
 ## Future
-Integrate the solution on Qemu with vnc display
+Integrate the solution on Qemu with vnc display => the performances are nice 45 fps and I integrate the sound management on linux :) soon available 
+
